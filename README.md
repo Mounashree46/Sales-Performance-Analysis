@@ -73,7 +73,7 @@ This project demonstrates entry-level Data Analyst capabilities:
 
 ## 🔄 How to Use This File
 
-1. Open `Sales_Performance_Analysis.xlsx` in Microsoft Excel
+1. Open `Sales Performance Analysis.xlsx` in Microsoft Excel
 2. Navigate to the "Dashboard" sheet for the complete analysis
 3. Use filters and slicers in PivotTables to explore data
 4. All formulas are cross-sheet references (Sheet1 is source data)
