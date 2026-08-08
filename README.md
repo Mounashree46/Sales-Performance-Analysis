@@ -50,18 +50,6 @@ Built entirely using **Excel** with PivotTables, PivotCharts, and advanced formu
 - **Dashboard Design:** KPI cards, professional styling
 - **Cross-sheet Formulas:** Referencing data across sheets
 
-## 📁 Files in This Repository
-
-- `Sales_Dashboard_Analysis.xlsx` - Complete Excel workbook with:
-  - Sheet1: Raw data (1,500 transactions)
-  - Analysis: Key metrics and summaries
-  - PivotTable_1: Revenue by Region & Product
-  - PivotTable_2: Quantity by Product & Region
-  - PivotTable_3: Revenue by Salesperson
-  - Dashboard: Professional KPI dashboard with charts
-
-- `Screenshots/` - Dashboard visualizations (PNG)
-
 ## 💡 Business Recommendations
 
 1. **North Region Success:** Analyze why North region outperforms others
@@ -85,7 +73,7 @@ This project demonstrates entry-level Data Analyst capabilities:
 
 ## 🔄 How to Use This File
 
-1. Open `Sales_Dashboard_Analysis.xlsx` in Microsoft Excel
+1. Open `Sales_Performance_Analysis.xlsx` in Microsoft Excel
 2. Navigate to the "Dashboard" sheet for the complete analysis
 3. Use filters and slicers in PivotTables to explore data
 4. All formulas are cross-sheet references (Sheet1 is source data)
